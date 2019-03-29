@@ -1,4 +1,4 @@
 class TicketType < ApplicationRecord
-	belongs_to :user
-	belongs_to :event
+	#belongs_to :order
+	#belongs_to :event
 end
